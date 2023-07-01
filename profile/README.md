@@ -4,6 +4,6 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/1124069466259591201?color=blue&label=discord&logo=discord)](https://discord.gg/yde6mcgs2C)
+[![Discord](https://img.shields.io/discord/1124069466259591201?color=blue&label=discord&logo=discord)](https://discord.gg/qJgv2p9Ebf)
 
 </div>
