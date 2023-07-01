@@ -2,8 +2,8 @@
   <p>Building a Safe, Fast, Simple and Configurable HTTP Server Solution in Rust</p>
 </div>
 
-<p align="center">
-  <samp>
-    <a href="https://discord.gg/ZERx8v6pjQ">Chat with us on whizzes Discord!</a>
-  </samp>
-</p>
+<div align="center">
+
+[![Discord](https://img.shields.io/discord/1124069466259591201?color=blue&label=discord&logo=discord)](https://discord.gg/yde6mcgs2C)
+
+</div>
