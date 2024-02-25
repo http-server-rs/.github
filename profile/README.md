@@ -9,6 +9,7 @@
 <div align="center">
 
   [![Crates.io](https://img.shields.io/crates/v/http-server.svg)](https://crates.io/crates/http-server)
+  [![Crates.io Downloads](https://img.shields.io/crates/d/http-server.svg)](https://crates.io/crates/http-server)
   [![Documentation](https://docs.rs/http-server/badge.svg)](https://docs.rs/http-server)
   ![Build](https://github.com/http-server-rs/http-server/workflows/build/badge.svg)
   ![Clippy](https://github.com/http-server-rs/http-server/workflows/clippy/badge.svg)
