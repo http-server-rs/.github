@@ -15,6 +15,5 @@
   ![Clippy](https://github.com/http-server-rs/http-server/workflows/clippy/badge.svg)
   ![Formatter](https://github.com/http-server-rs/http-server/workflows/fmt/badge.svg)
   ![Tests](https://github.com/http-server-rs/http-server/workflows/test/badge.svg)
-  ![Benchs](https://github.com/http-server-rs/http-server/workflows/bench/badge.svg)
 
 </div>
